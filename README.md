@@ -4,7 +4,7 @@
 npm install && node server
 ```
 
-### Yo!
+### Hi!
 
 I decided to build an autocomplete using React.js. Hope you like it!
 
