@@ -1,0 +1,53 @@
+body {
+  background: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  margin: 0;
+  padding: 30px 60px;
+}
+
+input.form-control {
+    border-radius:0px;
+}
+
+.place {
+    border-bottom:1px solid #f9f9f9;
+    padding:20px 4px;
+}
+
+.place .marker {
+    color:#e74c3c;
+    margin-right:10px;
+}
+
+.placeList {
+    max-height: 400px;
+    outline: 1px solid #ccc;
+    overflow-y: scroll;
+    padding:0px 10px;
+}
+
+.paceList.empty {
+    outline:none;
+}
+
+.placeStatus {
+    color:#27ae60;
+    font-size:11px;
+    margin-left:10px;
+    text-transform: uppercase;
+}
+
+.placeStatus.closed {
+    color:#e74c3c;
+}
+
+.location {
+    color:#555;
+    font-size:12px;
+    font-style: italic;
+}
+
+#trex {
+    width:240px;
+}
